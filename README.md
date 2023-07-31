@@ -1,6 +1,6 @@
 ### Hi, I'm Siddhesh 👋
 
-I'm a full stack engineer passionate about producing clean, well-tested code. 
+I'm a full stack engineer passionate about making things.
 
 At the moment I'm looking for SDE roles while building personal projects on the side.
 
