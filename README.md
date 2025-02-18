@@ -1,3 +1,6 @@
 ### Hi, I'm Siddhesh 👋
 
-I'm a full stack software engineer. You can reach out to me at ranade.siddhesh@gmail.com or at [my LinkedIn](https://linkedin.com/in/siddhesh-ranade).
+I'm a full stack software engineer. Some of my side projects include:
+- [Combined Search](https://combinedsearch.io) (20+ DAU)
+- [Snake](https://teal-croquembouche-4b3687.netlify.app/)
+- [Popular Website Homepage Replicas](https://github.com/siddheshranade/static-webpages?tab=readme-ov-file#static-webpages)
